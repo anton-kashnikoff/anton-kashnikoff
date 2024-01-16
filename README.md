@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **anton.kashnikoff@icloud.com**
 
-- 📄 Know about my experiences [resume](prostokot14.github.io)
+- 📄 Know about my experiences [resume](https://prostokot14.github.io)
 
 - ⚡ Fun fact **J'habite en France et j'apprends le français 🇫🇷**
 
