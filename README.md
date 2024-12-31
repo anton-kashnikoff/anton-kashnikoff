@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [github.com/prostokot14](gitHub.com/prostokot14)
 
-- 💬 Ask me about **Swift, Xcode, UIKit, SwiftUI**
+- 💬 Ask me about **[Swift](https://developer.apple.com/documentation/swift), [Xcode](https://developer.apple.com/documentation/xcode), [Foundation](https://developer.apple.com/documentation/foundation), [UIKit](https://developer.apple.com/documentation/uikit), [SwiftUI](https://developer.apple.com/documentation/swiftui), [Observation](https://developer.apple.com/documentation/observation), [Dispatch](https://developer.apple.com/documentation/dispatch)**
 
 - 📫 How to reach me **anton.kashnikoff@icloud.com**
 
