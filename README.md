@@ -23,17 +23,17 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **"100 Days of Swift" on hackingwithswift.com and "Develop in Swift" book series.**
 
-- 📱 My graduation team project of Yandex.Practicum [FakeNFT](https://github.com/prostokot14/iOS-FakeNFT)
+- 📱 My graduation team project of Yandex.Practicum [FakeNFT](https://github.com/anton-kashnikoff/iOS-FakeNFT)
 
-- 🤝 My mobile application project [Tracker](https://github.com/prostokot14/Tracker)
+- 🤝 My mobile application project [Tracker](https://github.com/anton-kashnikoff/Tracker)
 
-- 👨‍💻 All of my projects are available at [github.com/prostokot14](gitHub.com/prostokot14)
+- 👨‍💻 All of my projects are available at [github.com/anton-kashnikoff](gitHub.com/anton-kashnikoff)
 
 - 💬 Ask me about **[Swift](https://developer.apple.com/documentation/swift), [Xcode](https://developer.apple.com/documentation/xcode), [Foundation](https://developer.apple.com/documentation/foundation), [UIKit](https://developer.apple.com/documentation/uikit), [SwiftUI](https://developer.apple.com/documentation/swiftui), [Observation](https://developer.apple.com/documentation/observation), [Dispatch](https://developer.apple.com/documentation/dispatch)**
 
 - 📫 How to reach me **anton.kashnikoff@icloud.com**
 
-- 📄 Know about my experiences [resume](https://prostokot14.github.io/resume)
+- 📄 Know about my experiences [resume](https://anton-kashnikoff.github.io/resume)
 
 - ⚡ Fun fact **J'habite en France et j'apprends le français 🇫🇷**
 
