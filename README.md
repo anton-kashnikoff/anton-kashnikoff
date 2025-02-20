@@ -1,8 +1,6 @@
 
 
 <!--
-**prostokot14/prostokot14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="center">Hi 👋, My name is Anton Kashnikov</h1>
-<h3 align="center">I'm a junior iOS developer from Russia 🧑🏻‍💻</h3>
+<h3 align="center">I'm a junior iOS developer from Russia living in France 🧑🏻‍💻 </h3>
 
-- 🔭 I'm working for a startup on a fitness app to train for marathons.
+- 🔭 I'm working for a **[Hiiro Ltd](https://hiiro.app)** on a fitness app to train for marathons.
 
 - 🌱 I’m currently learning **"100 Days of Swift" on hackingwithswift.com and "Develop in Swift" book series.**
 
